@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\crudpar\crudpar\bin\Debug\crudpar.exe.config
+C:\Users\Alumno\source\repos\crudpar\crudpar\bin\Debug\crudpar.exe
+C:\Users\Alumno\source\repos\crudpar\crudpar\bin\Debug\crudpar.pdb
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.Form1.resources
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.Properties.Resources.resources
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.exe
+C:\Users\Alumno\source\repos\crudpar\crudpar\obj\Debug\crudpar.pdb
